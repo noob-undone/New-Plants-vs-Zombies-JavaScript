@@ -1,0 +1,4 @@
+9:57 4/23/23
+- I had to use this website to beautify the "scrambled" or intentionally trashed code in the javascript files.
+- In my opinion, it was trashed so that the code wont be easily be modified or accessed, which is a bit rude.
+- https://beautifier.io/
